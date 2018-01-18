@@ -1,0 +1,15 @@
+.header {
+	height: 600px;
+	background: url('img/naslovna2.jpg') no-repeat ;
+	background-size:cover;
+	
+}
+.naslov2{
+	font-size:48px;
+	font-family:'Pompiere', cursive;
+	text-align:center;
+}
+.tekst{
+	font-size:30 px;
+	font-family: "Prociono", cursive;
+}
